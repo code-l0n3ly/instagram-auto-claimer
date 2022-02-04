@@ -80,7 +80,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]]<img src="image.png" alt="screenshot" width="1920" height="1080">
+[![Product Name Screen Shot][product-screenshot]]<img src="image.png" alt="screenshot" width="360" height="180">
 
 A tool that use instagram account sessions to login and check for the desired usernames as a txt file, once one of them is available it will replace it with one of the accounts' username used in the txt file -need proxies to avoid being spam-block- 
 <p align="right">(<a href="#top">back to top</a>)</p>
@@ -89,7 +89,7 @@ A tool that use instagram account sessions to login and check for the desired us
 
 ### Built With
 
-* [Next.js](https://go.dev/)
+* [Go](https://go.dev/)
 
 
 <p align="right">(<a href="#top">back to top</a>)</p>
@@ -150,17 +150,6 @@ choose the thread you want and you are all set !.
 
 
 
-<!-- ROADMAP -->
-## Roadmap
-
-- [ ] Feature 1
-- [ ] Feature 2
-- [ ] Feature 3
-    - [ ] Nested Feature
-
-See the [open issues](https://github.com/code-l0n3ly/instagram-auto-claimer/issues) for a full list of proposed features (and known issues).
-
-<p align="right">(<a href="#top">back to top</a>)</p>
 
 
 
@@ -194,7 +183,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@twitter_handle](https://twitter.com/l0n3lycoding) - yw39il@gmail.com
+Yousef Almutairi - [@L0n3lyCoding](https://twitter.com/l0n3lycoding)
 
 Project Link: [https://github.com/code-l0n3ly/instagram-auto-claimer](https://github.com/code-l0n3ly/instagram-auto-claimer)
 
@@ -203,13 +192,6 @@ Project Link: [https://github.com/code-l0n3ly/instagram-auto-claimer](https://gi
 
 
 <!-- ACKNOWLEDGMENTS -->
-## Acknowledgments
-
-* []()
-* []()
-* []()
-
-<p align="right">(<a href="#top">back to top</a>)</p>
 
 
 
