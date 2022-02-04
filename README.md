@@ -67,11 +67,9 @@
       </ul>
     </li>
     <li><a href="#usage">Usage</a></li>
-    <li><a href="#roadmap">Roadmap</a></li>
     <li><a href="#contributing">Contributing</a></li>
     <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
-    <li><a href="#acknowledgments">Acknowledgments</a></li>
   </ol>
 </details>
 
@@ -80,7 +78,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]]<img src="image.png" alt="screenshot" width="360" height="180">
+<img src="image.png" alt="screenshot" width="360" height="180">
 
 A tool that use instagram account sessions to login and check for the desired usernames as a txt file, once one of them is available it will replace it with one of the accounts' username used in the txt file -need proxies to avoid being spam-block- 
 <p align="right">(<a href="#top">back to top</a>)</p>
