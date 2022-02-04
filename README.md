@@ -30,7 +30,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/code-l0n3ly/instagram-auto-claimer">
-    <img src="image.png" alt="Logo" width="80" height="80">
+    
   </a>
 
 <h3 align="center">Instagram Auto Claimer</h3>
@@ -80,7 +80,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+[![Product Name Screen Shot][product-screenshot]]<img src="image.png" alt="screenshot" width="1920" height="1080">
 
 A tool that use instagram account sessions to login and check for the desired usernames as a txt file, once one of them is available it will replace it with one of the accounts' username used in the txt file -need proxies to avoid being spam-block- 
 <p align="right">(<a href="#top">back to top</a>)</p>
